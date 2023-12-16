@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirusha99&label=Profile%20views&color=0e75b6&style=flat" alt="hirusha99" /> </p>
 
-- 🌱 I’m currently learning **python, Keras, Figma**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **hirushanethni2277@gmail.com**
 

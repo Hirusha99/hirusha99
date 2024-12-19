@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hirusha Wanigasingha</h1>
-<h3 align="center">An Undergraduate at University of Sri Jayewardenepura</h3>
+<h3 align="center">Teaching Assistant at University of Sri Jayewardenepura</h3>
+<h3 align="center">Former Machine Learning Engineer (Intern) at Dialog Axiata PLC </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirusha99&label=Profile%20views&color=0e75b6&style=flat" alt="hirusha99" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science**, **Machine Learning**, **Quantumn Computing**, **AWS**
 
 - 📫 How to reach me **hirushanethni2277@gmail.com**
 
